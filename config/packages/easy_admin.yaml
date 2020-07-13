@@ -1,0 +1,8 @@
+easy_admin:
+    entities:
+
+       - App\Entity\Lekarz
+       - App\Entity\Pacjent
+       - App\Entity\Wizyta
+       
+       
